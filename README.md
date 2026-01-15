@@ -33,13 +33,11 @@ dự án cá nhân Đỗ Đức Nhẫn
             <p><em>Mục tiêu: Rèn luyện kỹ năng làm dự án, sử dụng công cụ số hiệu quả.</em></p>
         </div>
     </header>
-
     <section id="gioi-thieu">
         <h2>Dự án bản thân</h2>
         <p>Chứa đựng quá trình hoàn thành 6 bài tập lớn của môn Nhập môn Công nghệ số và Trí tuệ nhân tạo.</p>
         <p><strong>Nhiệm vụ:</strong> Thực hiện kỹ năng số đã học, lưu trữ sản phẩm cá nhân sau quá trình học tập.</p>
     </section>
-
     <section id="bai-1">
         <h2>Bài 1: Thao tác cơ bản với tập tin và thư mục</h2>
         <h3>Lên ý tưởng & Quá trình thực hiện</h3>
@@ -48,7 +46,6 @@ dự án cá nhân Đỗ Đức Nhẫn
         <h3>Kết quả</h3>
         <p>Tạo thành file PDF nộp bài. Cấu trúc thư mục được phân cấp từ thời gian đến nội dung, đặt tên thống nhất.</p>
     </section>
-
     <section id="bai-2">
         <h2>Bài 2: Tìm kiếm và đánh giá thông tin học thuật</h2>
         <p><strong>Mục tiêu:</strong> Nâng cao kỹ năng tìm kiếm, đánh giá nguồn tin.</p>
@@ -61,7 +58,6 @@ dự án cá nhân Đỗ Đức Nhẫn
         <div class="placeholder-img">[Ảnh kết quả tìm kiếm Google]</div>
         <p><strong>Bài học:</strong> Không phải nguồn tin nào cũng đáng tin cậy. Cần kiểm tra tên miền và tác giả.</p>
     </section>
-
     <section id="bai-3">
         <h2>Bài 3: Viết prompt hiệu quả cho tác vụ học tập</h2>
         <p><strong>Mục tiêu:</strong> Rèn luyện kỹ năng giao tiếp với AI (Prompt Engineering).</p>
@@ -73,7 +69,6 @@ dự án cá nhân Đỗ Đức Nhẫn
         <div class="placeholder-img">[Ảnh so sánh Prompt]</div>
         <p><strong>Bài học:</strong> Chất lượng đầu ra phụ thuộc vào chất lượng đầu vào (câu lệnh).</p>
     </section>
-
     <section id="bai-4">
         <h2>Bài 4: Công cụ hợp tác trực tuyến (Trello)</h2>
         <p><strong>Mục tiêu:</strong> Quản lý dự án nhóm và cá nhân.</p>
@@ -81,7 +76,6 @@ dự án cá nhân Đỗ Đức Nhẫn
         <p><strong>Kế hoạch:</strong> Chia cột To Do, Doing, Done để theo dõi deadline.</p>
         <p><strong>Bài học:</strong> Trực quan hóa tiến độ giúp giảm áp lực và quản lý thời gian tốt hơn.</p>
     </section>
-
     <section id="bai-5">
         <h2>Bài 5: Sử dụng AI tạo sinh sáng tạo nội dung</h2>
         <p><strong>Đề tài:</strong> Giới thiệu cách sử dụng AI tối ưu.</p>
@@ -93,7 +87,6 @@ dự án cá nhân Đỗ Đức Nhẫn
         <div class="placeholder-img">[Video/Ảnh kết quả bài 5]</div>
         <p><strong>Bài học:</strong> AI làm tốt phần thực thi, con người cần thổi "hồn" và sự tinh tế vào sản phẩm.</p>
     </section>
-
     <section id="bai-6">
         <h2>Bài 6: Sử dụng AI có trách nhiệm</h2>
         <h3>5 Nguyên tắc cá nhân</h3>
@@ -106,13 +99,11 @@ dự án cá nhân Đỗ Đức Nhẫn
         </ol>
         <p><strong>Bài học:</strong> Liêm chính học thuật. AI là trợ thủ, không phải người làm thay.</p>
     </section>
-
     <section id="cam-nhan">
         <h2>TRẢI NGHIỆM VÀ CẢM NHẬN</h2>
         <p>Sau khi hoàn thành sáu bài tập, em cảm thấy tự hào về hành trình khám phá bản thân trong môi trường số. Từ việc quản lý dữ liệu khoa học đến viết prompt cho AI, em đã có tư duy mới về sự phối hợp giữa người và máy.</p>
         <p>Điều tâm đắc nhất là hoàn thiện trang web cá nhân chuyên nghiệp và bộ quy tắc sử dụng AI trách nhiệm. Dù gặp khó khăn về kỹ thuật ban đầu, nhưng đó là bài học về sự kiên nhẫn.</p>
     </section>
-
     <div class="contact-box">
         <h3>Bạn có thắc mắc? Liên hệ:</h3>
         <p>Email: <a href="mailto:25000177@vnu.edu.vn">25000177@vnu.edu.vn</a></p>
