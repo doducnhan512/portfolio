@@ -2,25 +2,6 @@
 dự án cá nhân Đỗ Đức Nhẫn
 <!DOCTYPE html>
 <html lang="vi">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dự Án Cá Nhân - Đỗ Đức Nhẫn</title>
-    <style>
-        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 0; padding: 0; background-color: #f4f4f4; color: #333; }
-        .container { max-width: 900px; margin: 20px auto; background: white; padding: 40px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
-        header { border-bottom: 2px solid #202124; padding-bottom: 20px; margin-bottom: 30px; }
-        h1 { color: #202124; font-size: 2.5em; margin-bottom: 10px; }
-        h2 { color: #1a73e8; border-bottom: 1px solid #ddd; padding-bottom: 10px; margin-top: 40px; }
-        h3 { color: #444; margin-top: 25px; }
-        .info-box { background-color: #e8f0fe; padding: 20px; border-radius: 8px; margin-bottom: 20px; }
-        .contact-box { background-color: #333; color: white; padding: 20px; margin-top: 50px; border-radius: 8px; }
-        .contact-box a { color: #8ab4f8; }
-        ul { margin-bottom: 20px; }
-        li { margin-bottom: 10px; }
-        .placeholder-img { background-color: #ddd; width: 100%; height: 200px; display: flex; align-items: center; justify-content: center; color: #666; margin: 10px 0; border-radius: 4px; }
-    </style>
-</head>
 <body>
 
 <div class="container">
